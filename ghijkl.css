@@ -1,0 +1,30 @@
+
+body{   
+    padding: 50px;
+    background-image: url("Pics.jpg");
+    /* background-repeat: no-repeat;
+    background-size: cover */
+}
+
+input{
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+#submit{
+    background-color: lightgreen;
+    font-size: 25px;   
+}
+
+label{
+    color:red;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#space{
+    color: lightyellow;
+}
+#legend{
+    color: yellow;
+}
