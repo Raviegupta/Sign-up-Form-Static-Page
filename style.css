@@ -38,6 +38,8 @@ form div {
     border: none;
     color: white;
     cursor: pointer;
+    width: 90px;
+    padding: 3px;
 }
 
 form label{
