@@ -23,7 +23,7 @@
     </form>
     ```
 
-* connection between `<label\>` tag attribute `for` and `<input/>` tag attribute `name` 
+* connection between `<label>` tag attribute `for` and `<input>` tag attribute `name` 
 
 
 
