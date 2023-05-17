@@ -1,9 +1,9 @@
 ## Things Learnt
 ---
 
-* fieldset tag :- The `<fieldset>` tag is used to group related elements in a form.
+* `fieldset tag` :- The `<fieldset>` tag is used to group related elements in a form.
 
-#### legend tag: The <legend> tag is used to define a caption for the <fieldset> element.
+    #### legend tag: The <legend> tag is used to define a caption for the <fieldset> element.
 
 #### eg:- 
 ```
@@ -23,7 +23,7 @@
 </form>
 ```
 
-* connection between <label\> tag attribute `for` and <input/> tag attribute `name` 
+* connection between `<label\>` tag attribute `for` and `<input/>` tag attribute `name` 
 
 
 
